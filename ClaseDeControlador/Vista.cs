@@ -22,6 +22,7 @@ namespace ClaseDeControlador
             public Producto LeerProducto()
             {
                 Console.Write("Ingrese el nombre del producto: ");
+
                 string nombre = Console.ReadLine();
                 Console.Write("Ingrese la cantidad del producto: ");
                 int cantidad = int.Parse(Console.ReadLine());
