@@ -1,4 +1,4 @@
-﻿namespace ClaseDeControlador
+﻿namespace ClaseControlador
 {
     public class Class1
     {
