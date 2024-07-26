@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace ClaseDeControlador
 {
+    /// <summary>
+    /// metodo para controlar los archivos de clientes
+    /// </summary>
     internal class ControladorDeArchivosClientes : IManejadorDeArchivoClientes
     {
         public string CargarArchivo(string path)
